@@ -1,0 +1,914 @@
+.breakpoint-0 {
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%
+}
+.style32 {
+  background-color: #f6f8f9;
+  display: flex;
+  width: 100%;
+  height: 5vh
+}
+.style33 {
+  color: #fa6980;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  font-weight: 700;
+  margin-left: 1.3888888888888888%;
+  margin-top: 1.25%;
+  height: 30%
+}
+.style34,
+.style35,
+.style36,
+.style37 {
+  font-family: Helvetica,serif;
+  font-size: 11px;
+  font-weight: 700;
+  margin-top: 1.3194444444444444%;
+  height: 24%
+}
+.style34 {
+  color: #343638;
+  margin-left: 71.18055555555556%
+}
+.style35,
+.style36,
+.style37 {
+  color: rgba(52,54,56,.5);
+  margin-left: 1.875%
+}
+.style35,
+.style36 {
+  margin-left: 1.5277777777777777%
+}
+.style38 {
+  margin-left: 2.7777777777777777%;
+  margin-top: .6944444444444444%;
+  width: 2.083%;
+  height: 60%
+}
+.desktop1row1 {
+  display: flex;
+  margin-top: 0;
+  width: 100%;
+  height: 60vh
+}
+.style0 {
+  background-image: url(https://designresources.assets.yotako.io/e7upykjbdsk8akrwnu.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 0;
+  width: 58.333%;
+  height: 100%;
+  flex-direction: column
+}
+.style2,
+.style5 {
+  color: #fff;
+  font-family: Helvetica,serif;
+  font-size: 24px;
+  font-weight: 700;
+  width: 71.428%
+}
+.style5 {
+  margin-left: 2.776666666666667%;
+  line-height: 42px;
+  margin-top: 4.916666666666667%
+}
+.style2 {
+  line-height: 34px;
+  margin-top: 2.2216666666666667%
+}
+.style1,
+.style2,
+.style3 {
+  margin-left: 2.776666666666667%
+}
+.style1 {
+  color: #fff;
+  font-family: Helvetica,serif;
+  font-size: 16px;
+  line-height: 26px;
+  margin-top: .27666666666666667%;
+  width: 66.666%
+}
+.style3 {
+  background-color: #fa6980;
+  display: flex;
+  margin-top: .8333333333333334%;
+  width: 15.952%;
+  height: 6.666%;
+  align-items: center;
+  border-radius: 6px
+}
+.style4 {
+  color: #fff;
+  text-align: center;
+  font-family: Helvetica,serif;
+  font-size: 11px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-left: 22.388059701492537%;
+  width: 55.223%
+}
+.style60 {
+  background-color: #fff;
+  display: flex;
+  margin-left: 0;
+  width: 41.666%;
+  height: 100%;
+  flex-direction: column
+}
+.desktop1row1container9row0 {
+  display: flex;
+  margin-left: 2.776666666666667%;
+  margin-top: 2.776666666666667%;
+  width: 63.333%;
+  height: 3.333%
+}
+.style61 {
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-left: 0;
+  width: 87.105%;
+  align-self: stretch
+}
+.style62,
+.style63 {
+  margin-top: 1.3157894736842106%;
+  width: 1.578%;
+  height: 50%
+}
+.style63 {
+  position: relative;
+  margin-left: 86.3157894736842%
+}
+.style62 {
+  margin-left: 10.526315789473685%
+}
+.style65,
+.style66 {
+  color: #fa6980;
+  font-family: Helvetica,serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-left: 2.776666666666667%;
+  margin-top: 2.25%;
+  width: 70%
+}
+.style66 {
+  color: #202124;
+  margin-top: .555%
+}
+.desktop1row1container9row4,
+.style67 {
+  margin-left: 2.776666666666667%;
+  margin-top: .27666666666666667%
+}
+.style67 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  font-size: 16px;
+  line-height: 26px;
+  width: 63.333%
+}
+.desktop1row1container9row4 {
+  display: flex;
+  width: 14%;
+  height: 2.666%
+}
+.style69 {
+  margin-left: 0;
+  width: 19.047%;
+  height: 100%
+}
+.style68,
+.style70,
+.style71 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  line-height: 26px;
+  margin-left: 11.904761904761905%;
+  width: 69.047%
+}
+.style70,
+.style71 {
+  color: #fa6980;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-left: 2.776666666666667%;
+  margin-top: 1.11%;
+  width: 70%
+}
+.style71 {
+  color: #202124;
+  margin-top: .555%
+}
+.desktop1row1container9row8,
+.style72 {
+  margin-left: 2.776666666666667%;
+  margin-top: .27666666666666667%
+}
+.style72 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  font-size: 16px;
+  line-height: 26px;
+  width: 63.333%
+}
+.desktop1row1container9row8 {
+  display: flex;
+  width: 14%;
+  height: 2.666%
+}
+.style74 {
+  margin-left: 0;
+  width: 19.047%;
+  height: 100%
+}
+.style73 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  line-height: 26px;
+  margin-left: 11.904761904761905%;
+  width: 69.047%
+}
+.desktop1row2 {
+  display: flex;
+  margin-left: 9.72%;
+  margin-top: 4%;
+  width: 80.555%;
+  height: 2vh
+}
+.style57 {
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-left: 0;
+  width: 88.362%;
+  align-self: stretch
+}
+.style58,
+.style59 {
+  margin-left: 7.155172413793103%;
+  margin-top: .43103448275862066%;
+  width: .517%;
+  height: 50%
+}
+.style58 {
+  margin-left: 3.4482758620689653%
+}
+.desktop1row3 {
+  display: flex;
+  margin-left: 9.72%;
+  margin-top: 4%;
+  width: 80.555%;
+  height: 18vh;
+  justify-content: space-between
+}
+.style39,
+.style40 {
+  position: relative;
+  display: flex;
+  height: 100%
+}
+.style40 {
+  background-image: url(https://designresources.assets.yotako.io/e7upykjbdsk8akryy1.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 31.034%
+}
+.style39 {
+  background-color: #fff;
+  width: 100%;
+  flex-shrink: 0;
+  border-radius: 6px 6px
+}
+.desktop1row3image8container6column0 {
+  display: flex;
+  margin-left: 11.11111111111111%;
+  width: 77.777%;
+  height: 50%;
+  align-self: center;
+  flex-direction: column
+}
+.style41,
+.style42 {
+  width: 100%;
+  align-self: stretch
+}
+.style41 {
+  font-weight: 700;
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 0
+}
+.style42 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  font-size: 13px;
+  line-height: 23px;
+  margin-top: 12.344444444444445%
+}
+.desktop1row3image8container6column0row2 {
+  display: flex;
+  margin-top: 12.344444444444445%;
+  width: 24.642%;
+  height: 17.777%
+}
+.style44 {
+  margin-left: 0;
+  width: 23.188%;
+  height: 100%
+}
+.style43 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  margin-left: 14.492753623188406%;
+  height: 93.75%
+}
+.style45,
+.style46 {
+  position: relative;
+  display: flex;
+  height: 100%
+}
+.style46 {
+  background-image: url(https://designresources.assets.yotako.io/e7upykjbdsk8aks0sb.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 31.034%
+}
+.style45 {
+  background-color: #fff;
+  width: 100%;
+  flex-shrink: 0;
+  border-radius: 6px 6px
+}
+.desktop1row3image10container7column0 {
+  display: flex;
+  margin-left: 11.11111111111111%;
+  width: 77.777%;
+  height: 50%;
+  align-self: center;
+  flex-direction: column
+}
+.style47,
+.style48 {
+  width: 100%;
+  align-self: stretch
+}
+.style47 {
+  font-weight: 700;
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 0
+}
+.style48 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  font-size: 13px;
+  line-height: 23px;
+  margin-top: 12.344444444444445%
+}
+.desktop1row3image10container7column0row2 {
+  display: flex;
+  margin-top: 12.344444444444445%;
+  width: 23.571%;
+  height: 17.777%
+}
+.style50 {
+  margin-left: 0;
+  width: 24.242%;
+  height: 100%
+}
+.style49 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  margin-left: 15.151515151515152%;
+  height: 93.75%
+}
+.style51,
+.style52 {
+  position: relative;
+  display: flex;
+  height: 100%
+}
+.style52 {
+  background-image: url(https://designresources.assets.yotako.io/e7upykjbdsk8aks1mm.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  flex-direction: column;
+  justify-content: center;
+  width: 31.034%
+}
+.style51 {
+  background-color: #fff;
+  width: 100%;
+  flex-shrink: 0;
+  border-radius: 6px 6px
+}
+.desktop1row3image12container8column0 {
+  display: flex;
+  margin-left: 11.11111111111111%;
+  width: 77.777%;
+  height: 50%;
+  align-self: center;
+  flex-direction: column
+}
+.style53,
+.style54 {
+  width: 100%;
+  align-self: stretch
+}
+.style53 {
+  font-weight: 700;
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 0
+}
+.style54 {
+  color: #a6adb4;
+  font-family: 'Acumin Pro',serif;
+  font-size: 13px;
+  line-height: 23px;
+  margin-top: 12.344444444444445%
+}
+.desktop1row3image12container8column0row2 {
+  display: flex;
+  margin-top: 12.344444444444445%;
+  width: 23.571%;
+  height: 17.777%
+}
+.style56 {
+  margin-left: 0;
+  width: 24.242%;
+  height: 100%
+}
+.style55 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  margin-left: 15.151515151515152%;
+  height: 93.75%
+}
+.desktop1row4 {
+  display: flex;
+  margin-left: 9.72%;
+  margin-top: 21%;
+  width: 80.555%;
+  height: 2vh
+}
+.style7 {
+  color: #202124;
+  font-family: Helvetica,serif;
+  font-size: 24px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-left: 0;
+  width: 66.379%;
+  align-self: stretch
+}
+.style75,
+.style76 {
+  margin-left: 29.137931034482758%;
+  margin-top: .43103448275862066%;
+  width: .517%;
+  height: 50%
+}
+.style75 {
+  margin-left: 3.4482758620689653%
+}
+.desktop1row5 {
+  display: flex;
+  margin-left: 9.72%;
+  margin-top: 4%;
+  width: 80.555%;
+  height: 43vh
+}
+.style89 {
+  background-image: url(https://designresources.assets.yotako.io/e7upykjbdsk8aks70y.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 0;
+  width: 65.517%;
+  height: 100%;
+  align-self: stretch;
+  flex-direction: column
+}
+.style91,
+.style94 {
+  color: #fff;
+  font-family: Helvetica,serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-left: 1.2232558139534884%;
+  margin-top: 2.162790697674419%;
+  width: 90.789%
+}
+.style91 {
+  font-size: 24px;
+  line-height: 34px;
+  margin-top: 12.546511627906977%;
+  width: 89.473%
+}
+.desktop1row5image29row3,
+.style90 {
+  margin-left: 1.2232558139534884%;
+  margin-top: .5395348837209302%
+}
+.style90 {
+  color: #fff;
+  font-family: Helvetica,serif;
+  font-size: 16px;
+  line-height: 26px;
+  width: 89.473%
+}
+.desktop1row5image29row3 {
+  display: flex;
+  width: 8.815%;
+  height: 3.72%
+}
+.style93 {
+  margin-left: 0;
+  width: 23.88%;
+  height: 100%
+}
+.style92 {
+  color: #cbd0d3;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  margin-left: 11.940298507462687%;
+  height: 93.75%
+}
+.desktop1row5column1 {
+  display: flex;
+  margin-left: 3.4482758620689653%;
+  width: 31.034%;
+  height: 121.395%;
+  flex-direction: column
+}
+.style77,
+.style78 {
+  width: 100%;
+  align-self: stretch
+}
+.style78 {
+  height: 40.229%;
+  margin-top: 0
+}
+.style77 {
+  color: #202124;
+  font-family: 'Acumin Pro',serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 26px;
+  margin-top: .7337164750957854%
+}
+.desktop1row5column1row2 {
+  display: flex;
+  margin-top: .36590038314176243%;
+  width: 41.944%;
+  height: 3.065%
+}
+.style80 {
+  margin-left: 0;
+  width: 10.596%;
+  height: 100%
+}
+.style79 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  margin-left: 6.622516556291391%;
+  height: 93.75%
+}
+.style82 {
+  margin-top: 1.4674329501915708%;
+  width: 100%;
+  height: 40.229%;
+  align-self: stretch
+}
+.desktop1row6 {
+  display: flex;
+  margin-left: 9.72%;
+  margin-top: 4%;
+  width: 80.555%;
+  height: 43vh
+}
+.style95 {
+  background-image: url(https://designresources.assets.yotako.io/e7upykjbdsk8aks7ma.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position-x: center;
+  background-position-y: center;
+  display: flex;
+  margin-left: 0;
+  width: 65.517%;
+  height: 100%;
+  align-self: stretch;
+  flex-direction: column
+}
+.style100,
+.style97 {
+  color: #fff;
+  font-family: Helvetica,serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 20px;
+  margin-left: 1.2232558139534884%;
+  margin-top: 2.162790697674419%;
+  width: 90.789%
+}
+.style97 {
+  font-size: 24px;
+  line-height: 34px;
+  margin-top: 12.546511627906977%;
+  width: 89.473%
+}
+.desktop1row6image31row3,
+.style96 {
+  margin-left: 1.2232558139534884%;
+  margin-top: .5395348837209302%
+}
+.style96 {
+  color: #fff;
+  font-family: Helvetica,serif;
+  font-size: 16px;
+  line-height: 26px;
+  width: 89.473%
+}
+.desktop1row6image31row3 {
+  display: flex;
+  width: 8.815%;
+  height: 3.72%
+}
+.style99 {
+  margin-left: 0;
+  width: 23.88%;
+  height: 100%
+}
+.style98 {
+  color: #cbd0d3;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  margin-left: 11.940298507462687%;
+  height: 93.75%
+}
+.desktop1row6column1 {
+  display: flex;
+  margin-left: 3.4482758620689653%;
+  width: 31.034%;
+  height: 82.325%;
+  align-self: flex-end;
+  flex-direction: column
+}
+.style81 {
+  color: #202124;
+  font-family: 'Acumin Pro',serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 26px;
+  margin-top: 0;
+  width: 100%;
+  align-self: stretch
+}
+.desktop1row6column1row1 {
+  display: flex;
+  margin-top: .7966101694915254%;
+  width: 32.222%;
+  height: 4.519%
+}
+.style84 {
+  margin-left: 0;
+  width: 13.793%;
+  height: 100%
+}
+.style83 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  margin-left: 8.620689655172415%;
+  height: 93.75%
+}
+.style85,
+.style86 {
+  width: 100%;
+  align-self: stretch
+}
+.style86 {
+  height: 59.322%;
+  margin-top: 3.189265536723164%
+}
+.style85 {
+  color: #202124;
+  font-family: 'Acumin Pro',serif;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 26px;
+  margin-top: 1.5932203389830508%
+}
+.desktop1row6column1row4 {
+  display: flex;
+  margin-top: .7966101694915254%;
+  width: 35.833%;
+  height: 4.519%
+}
+.style88 {
+  margin-left: 0;
+  width: 12.403%;
+  height: 100%
+}
+.style87 {
+  color: #a6adb4;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  margin-left: 7.751937984496124%;
+  height: 93.75%
+}
+.style8 {
+  background-color: #a6adb4;
+  display: flex;
+  margin-top: 10%;
+  width: 100%;
+  height: 20vh
+}
+.style21 {
+  color: #fff;
+  font-family: 'Acumin Pro',serif;
+  font-size: 13px;
+  font-weight: 700;
+  margin-left: 9.722222222222221%;
+  margin-top: 4.027777777777778%;
+  height: 6.5%
+}
+.desktop1container1column1 {
+  display: flex;
+  margin-left: 4.375%;
+  margin-top: 3.888888888888889%;
+  width: 4.305%;
+  height: 42%;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style12,
+.style15,
+.style18,
+.style9 {
+  color: #cbd0d3;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  font-weight: 700;
+  height: 17.857%
+}
+.desktop1container1column2 {
+  display: flex;
+  margin-left: 2.638888888888889%;
+  margin-top: 3.888888888888889%;
+  width: 4.097%;
+  height: 42%;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style10,
+.style13,
+.style16,
+.style19 {
+  color: #cbd0d3;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  font-weight: 700;
+  height: 17.857%
+}
+.desktop1container1column3 {
+  display: flex;
+  margin-left: 2.8472222222222223%;
+  margin-top: 3.888888888888889%;
+  width: 5.486%;
+  height: 42%;
+  flex-direction: column;
+  justify-content: space-between
+}
+.style11,
+.style14,
+.style17,
+.style20 {
+  color: #cbd0d3;
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  font-weight: 700;
+  height: 17.857%
+}
+.desktop1container1column4 {
+  display: flex;
+  margin-left: 15.347222222222221%;
+  margin-top: 4.027777777777778%;
+  width: 18.055%;
+  height: 33%;
+  flex-direction: column;
+  justify-content: center
+}
+.style22 {
+  background-color: rgba(255,255,255,.10000000149011612);
+  border-left: 2px solid #fff;
+  border-right: 2px solid #fff;
+  border-top: 2px solid #fff;
+  border-bottom: 2px solid #fff;
+  display: flex;
+  width: 100%;
+  height: 60.606%;
+  border-radius: 6px
+}
+.style24 {
+  color: rgba(203,208,211,.5);
+  font-family: Helvetica,serif;
+  font-size: 13px;
+  line-height: 20px;
+  margin-left: 7.6923076923076925%;
+  margin-top: 5.384615384615385%;
+  width: 13.461%
+}
+.style23 {
+  margin-left: 65%;
+  margin-top: 4.615384615384615%;
+  width: 6.153%;
+  height: 40%
+}
+.style25 {
+  color: #cbd0d3;
+  font-family: Helvetica,serif;
+  font-size: 11px;
+  line-height: 20px;
+  width: 100%
+}
+.style28,
+.style30 {
+  margin-left: 9.722222222222221%;
+  margin-top: 3.888888888888889%;
+  width: 1.111%;
+  height: 8%
+}
+.style28 {
+  background-color: #fff;
+  display: flex;
+  margin-left: 2.2222222222222223%;
+  flex-direction: column
+}
+.style29 {
+  width: 100%;
+  height: 81.109%
+}
+.style26 {
+  background-color: #fff;
+  display: flex;
+  margin-left: 2.2222222222222223%;
+  margin-top: 3.888888888888889%;
+  width: 1.111%;
+  height: 8%;
+  flex-direction: column
+}
+.style27 {
+  width: 52.222%;
+  height: 100%
+}
+.style31 {
+  margin-left: 2.2222222222222223%;
+  margin-top: 3.888888888888889%;
+  width: 1.111%;
+  height: 8%
+}
